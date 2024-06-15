@@ -1,1 +1,3 @@
-__pycache__/ .mypy_cache/ main.py
+__pycache__/
+.mypy_cache/ 
+main.py
